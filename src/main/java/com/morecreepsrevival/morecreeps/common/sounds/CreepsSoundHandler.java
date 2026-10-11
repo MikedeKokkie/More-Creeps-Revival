@@ -876,7 +876,6 @@ public class CreepsSoundHandler {
                 ponyGirlBuySound,
                 ponyGirlHurtSound,
                 ponyGirlDeathSound,
-                ponyGirlHurtSound,
                 ponyGirlMoneySound,
                 ponyCloudSound,
                 ponyGirlWaitHereSound,
